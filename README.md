@@ -1,7 +1,5 @@
 # Beter Bekend Assessment
 
-## Overzicht
-
 Dit assessment is bedoeld om een goed beeld te krijgen van de skillset van de sollicitant bij Beter Bekend.
 
 **Let op**: Spendeer maximaal 4 uur aan jouw oplossing.
@@ -37,10 +35,10 @@ Voel je echter vrij om andere tools in te zetten die je passend vindt voor deze 
 5. **Data Validatie**
    - Maak gebruik van validatie. Voordat data opgeslagen wordt, wordt er gecontroleerd of de data valide is.
 
-6. **Bonus - Authorizatie **
+6. **Bonus - Authorizatie**
    - Gebruikers kunnen alleen hun eigen projecten en logs bekijken.
 
-6. **Bonus - **
+6. **Bonus - beheer projecten**
    - Gebruikers kunnen projecten en logs aanpassen en verwijderen.    
 
 ## Aanpak en Levering
